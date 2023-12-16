@@ -10,7 +10,7 @@ I have experience in web scrapping ,machine learnig and big data analysis and im
 
 
 - 🔭 I’m currently working on this page. 
-#### I’m currently learning Full-Stack Dveloping,Data Analysis/ML and Linux administer for getting LPIC. 
+#### I’m currently learning Full-Stack Dveloping,Data Analysis/ML and Linux administering for getting LPIC. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samaanjafari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saamanjafarii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Saman_Jafari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ucl.footballfunclub.pro/)  

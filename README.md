@@ -18,6 +18,8 @@ I have experience in web scrapping ,machine learnig and big data analysis and im
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaanjafari)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 # ⚡ Business Experience ⚡:  
- About one year ago before i had been moved to California when i was iran the goverment had been forbidden us from access to free internet then i actually decide to run a small business that provides **v2ray and ssh config**.So i was renting **VPS** and cloud servers and run VPN servers and i was runnig the business as CEO with another 3 of my friends that they hadn't any knowledge of computer industry so i had been given to them another duties such as managing and talking to web server providers support if an issue pulled up and managing the expenses stuffs and the other 2  was advertising and collecting the customers and thanks to god after 1 MONTH we had  **110 ONLINE CLIENTS**!!So im really familiar with **Linux administer/network security and clouding servers stuffs**.
+ About one year ago before i had been moved to California when i was iran the goverment had been forbidden us from access to free internet then i actually decide to run a small business that provides **v2ray and ssh config**.So i was renting **VPS** and cloud servers and run VPN servers and i was runnig the business as CEO with another 3 of my friends that they hadn't any knowledge of computer industry so i had been given to them another duties such as managing and talking to web server providers support if an issue pulled up and managing the expenses stuffs and the other 2  was advertising and collecting the customers and thanks to god after 1 MONTH we had  https://placehold.it/150/f03c15/f03c15?text=**110 ONLINE CLIENTS** !!So im really familiar with **Linux administer/network security and clouding servers stuffs**.
 

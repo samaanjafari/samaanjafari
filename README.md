@@ -1,7 +1,7 @@
 # Saman Jafari
 ![Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Saman from California i'm a python developer and  wordpress developer.Im into full-stack developing right now and learning it and i also have to add i'm software engineer student in university.
+I'm Saman from California i'm a Data Science and web developer fan.Im into full-stack developing right now and learning it and i also have to add i'm software engineer student in university.
 I have experience in web scrapping ,machine learnig and big data analysis and im also familiar working with mysql database and coding it in python too.
 
 # Skills: PYTHON/MYSQL/WordPress

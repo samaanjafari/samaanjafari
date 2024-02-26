@@ -4,7 +4,7 @@
 I'm Saman from California i'm a Data Science and web developer fan.Im into full-stack developing right now and learning it and i also have to add i'm software engineer student in university.
 I have experience in web scrapping ,machine learnig and big data analysis and im also familiar working with mysql database and coding it in python too.
 
-# Skills: PYTHON/MYSQL/WordPress
+# Skills: Data analysing, Web Scraping,Backend developing.
 
 
 
